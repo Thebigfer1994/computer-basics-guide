@@ -2,8 +2,9 @@
 
 Welcome to this beginner-friendly guide that explains how a computer works, from binary data to internal hardware components. This project is part of my IT learning journey and is based on the first module of the [Google IT Support Professional Certificate](https://www.coursera.org/professional-certificates/google-it-support).
 
-📘 **Download the full guide in PDF or Word format**:  
-> [Coming soon – will be available in the repository files]
+📥 **Download the full guide in PDF format**  
+[📄 How Does a Computer Work – A Visual Guide for Beginners in Technical Support (PDF)](https://github.com/Thebigfer1994/computer-basics-guide/blob/main/How%20Does%20a%20Computer%20Work%20A%20Visual%20Guide%20for%20Beginners%20in%20Technical%20Support.pdf)
+
 
 ---
 

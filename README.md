@@ -62,8 +62,9 @@ The content is ideal for students, beginners in IT support, or anyone curious ab
 
 - [ASCII Code Table](https://elcodigoascii.com.ar/)
 - [Nvidia GPU Benchmark](https://www.techrankup.com/es/pc-graphics-cards-ranking/nvidia/)
-- [GPU Comparison Charts](https://www.gpucheck.com/es-eur/gpu-benchmark-graphics-card-comparison-chart)
+- [2022 GPU Hierarchy Chart](https://www.gpucheck.com/es-eur/gpu-benchmark-graphics-card-comparison-chart)
 - [RAM and Disk Explanation – Platzi (Spanish)](https://platzi.com/clases/1098-ingenieria/6553-que-es-la-memoria-ram-y-como-funcionan-los-discos-/)
+- [Coursera – Google IT Support: Technical Support Fundamentals](https://www.coursera.org/learn/technical-support-fundamentals/home/module/2)
 
 ---
 
